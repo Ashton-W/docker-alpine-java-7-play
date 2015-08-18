@@ -1,4 +1,4 @@
-# docker-alpine-java-7-play
+# Alpine-java-7-play
 
 AlpineLinux container with:
 
